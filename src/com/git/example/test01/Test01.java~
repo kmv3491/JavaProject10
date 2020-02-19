@@ -2,8 +2,11 @@ package com.git.example;
 
 public class Test {
 
+
 	public static void displayString message(){
+	
 		System.out.println(message);
+			
 	}
 
 	public static void main(String[] args) {
