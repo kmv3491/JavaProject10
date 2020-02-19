@@ -1,14 +1,14 @@
 package com.git.example.tests;
 
-public class Test {
+public class Test01 {
 
 	//fonction 	qui affiche un message en console	
-	public static void displayString message(){
+	public static void print(String message){
 		System.out.println(message);
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Test new project modification 1");
-		System.out.println("Test new project modified 2 by gcb");
+		print("Test new project modification 1");
+		print("Test new project modified 2 by gcb");
 	}
 }
