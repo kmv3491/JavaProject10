@@ -1,4 +1,4 @@
-package com.git.example;
+package com.git.example.tests;
 
 public class Test {
 
