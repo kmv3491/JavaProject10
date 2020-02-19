@@ -8,7 +8,6 @@ public class Test01 {
 	}
 
 	public static void main(String[] args) {
-		print("Test new project modification 1");
 		print("Test new project modified 2 by gcb");
 	}
 }
