@@ -3,8 +3,14 @@ package com.git.example.tests;
 
 public class Test02 {
 
+
+	public static void affiche(String message){
+	
+		System.out.println(message);
+	}
+	
 	public static void main(String [] args){
-		System.out.println("Test 2 de java");
+		affiche("Test 2 de java");
 	}
 
 }
