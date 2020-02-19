@@ -2,6 +2,7 @@ package com.git.example;
 
 public class Test {
 
+	//fonction 	qui affiche un message en console	
 	public static void displayString message(){
 		System.out.println(message);
 	}
