@@ -26,7 +26,6 @@ public class Test01 {
 	}
 
 	public static void main(String[] args) {
-
 		Test01 test = new Test01("Bonjour les amis!");
 		test.print(test.getMessage());
 
