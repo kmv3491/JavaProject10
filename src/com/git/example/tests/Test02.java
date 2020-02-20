@@ -4,8 +4,8 @@ package com.git.example.tests;
 public class Test02 {
 
 
-	public static void affiche(String message){
 	
+	private static void affiche(String message) {
 		System.out.println(message);
 	}
 	
